@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This Website is currently being edited
+          This Website is currently being built by KMMJ Studios.
  
         </p>
         <a
